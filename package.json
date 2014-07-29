@@ -1,0 +1,12 @@
+{
+  "name": "intern-test-example",
+  "url": "https://github.com/JakeStoeffler/intern-test-example",
+  "email": "jake@jakestoeffler.com",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "intern": "^2.0.1"
+  },
+  "dependencies": {
+    
+  }
+}
