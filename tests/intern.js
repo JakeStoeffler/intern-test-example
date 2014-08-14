@@ -23,8 +23,8 @@ define({
 	// capabilities options specified for an environment will be copied as-is
 	environments: [
 //        { browserName: 'firefox' },
-		{ browserName: 'safari' }
-//		{ browserName: 'chrome' }
+//		{ browserName: 'safari' },
+		{ browserName: 'chrome' }
 //		{ browserName: 'internet explorer', version: '11', platform: 'Windows 8.1' },
 //		{ browserName: 'internet explorer', version: '10', platform: 'Windows 8' },
 //		{ browserName: 'internet explorer', version: '9', platform: 'Windows 7' },
