@@ -3,6 +3,10 @@
   "url": "https://github.com/JakeStoeffler/intern-test-example",
   "email": "jake@jakestoeffler.com",
   "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JakeStoeffler/intern-test-example.git"
+  },
   "devDependencies": {
     "intern": "^2.0.1"
   },
